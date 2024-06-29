@@ -3,13 +3,36 @@
 
 # Relatório de Produção do Jogo 2-Player Snake
 
-## 1) Requisitos
+Objetivo: Desenvolver uma versão multiplayer do clássico jogo da Cobrinha. Este projeto permitirá que os estudantes combinem suas habilidades de programação em Java com técnicas de desenvolvimento de jogos para criar um ambiente de jogo interativo e competitivo.
 
-### 1.1. Funcionalidades do Jogo
-- Implementação inicial de um jogo funcional de Snake para um único jogador.
-- Adição de uma segunda cobra e ajustes nas interações entre as cobras.
-- Integração de recursos estéticos, como mensagens de game over.
-- Inclusão de efeitos sonoros para melhorar a experiência do usuário.
+## 1) Descrição da Tarefa:
+Configuração do Projeto:
+Criar um projeto que tenha como alvo plataformas desktop para facilitar a configuração e os testes.
+
+Mecânicas do Jogo:
+Implementar a jogabilidade clássica da Cobrinha, onde o jogador controla uma cobra que se move em uma grade, comendo comida para crescer.
+Cada pedaço de comida comido aumenta o comprimento da cobra e a velocidade do jogo ligeiramente.
+Incluir limites ou fazer com que as paredes não colidam, permitindo que a cobra passe por uma parede e saia pelo lado oposto.
+
+Recursos Multiplayer:
+
+Permitir que dois jogadores compitam na mesma tela, cada um controlando uma cobra com entradas do teclado.
+Implementar a detecção de colisão entre as cobras, onde o jogo termina se uma cobra colidir consigo mesma ou com a outra cobra.
+Rastrear e exibir a pontuação de cada jogador com base em quantos alimentos suas cobras consumiram.
+
+Interface Gráfica:
+Usar uma GUI para projetar uma interface dinâmica e visualmente atraente.
+
+Melhorias e Som:
+Adicionar efeitos sonoros para comer comida, colisão e outros eventos do jogo usando as capacidades de áudio do LibGDX.
+
+Documentação e Testes:
+Documentar as decisões de design, regras do jogo e processo de desenvolvimento.
+Testar o jogo minuciosamente para garantir que as mecânicas sejam sólidas e que o jogo esteja livre de bugs.
+
+Resultados Esperados:
+Mecânicas de jogo em tempo real: Aprender sobre o gerenciamento de interações em tempo real e colisões em um jogo.
+
 
 ## 2) Descrição do Projeto
 
