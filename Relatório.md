@@ -71,7 +71,8 @@ O código está estruturado em diferentes pacotes:
 - Teste de limites de movimentação no tabuleiro.
 - Validação de inputs inválidos e comportamentos de erro.
 
-## 5) Procedimentos de Construção
+## 5) Procedimentos de Build
+Recomenda-se a execução através da IDE. Contudo é possível executá-la pelo terminal.
 
 ### Compilação e Execução
 - **Compilação via Terminal:**
