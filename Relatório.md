@@ -86,7 +86,7 @@ java Main
 ```
 
 ### Ambiente de Desenvolvimento
-- Utilização do Eclipse como IDE principal.
+- Utilização do IntelliJ como IDE principal.
 - Instalação do plugin WindowBuilder para criação da interface gráfica.
 - Gerenciamento de dependências com bibliotecas externas para efeitos sonoros e outras funcionalidades.
 
